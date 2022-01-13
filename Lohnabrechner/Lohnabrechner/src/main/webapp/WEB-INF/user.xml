@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <name>arbeitnehmer</name>
+        <password>arbeitnehmer123</password>
+        <isadmin>0</isadmin>
+    </user>
+    <user id="2">
+        <username>arbeitgeber</username>
+        <password>arbeitgeber123</password>
+        <isadmin>0</isadmin>
+    </user>
+    <user id="3">
+        <name>admin</name>
+        <password>admin123</password>
+        <isadmin>1</isadmin>
+    </user>
+</users>
